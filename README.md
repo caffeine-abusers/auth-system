@@ -1,6 +1,3 @@
 # Auth System
 
-
-
-Authors: [ Tomáš Plánský, Martin Fryč ]
-Version: 1.0.0
+Authors: Tomáš Plánský, Martin Fryč
